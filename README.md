@@ -1,5 +1,5 @@
-# TelegramBotPythonAppEngine
-A easy way to manage a Telegram Bot in App Engine
+# TelegramBot Python App Engine
+An easy way to manage a Telegram Bot in App Engine
 
 
 First of all set your bot:
